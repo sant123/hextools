@@ -42,5 +42,5 @@ Converts from a hexadecimal string to ArrayBuffer.
 
 ### hexToBuffer(hex: string): ArrayBuffer
 
-Throws a `TypeError` if hex lenght is not even or it has unrecognized
+Throws a `TypeError` if hex length is not even or it has unrecognized
 characters.
